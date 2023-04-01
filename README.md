@@ -1,3 +1,6 @@
+## Adding Monogame templates to .NET Core
+`dotnet new --install "MonoGame.Templates.CSharp"`
+
 ## `dotnet new mgdesktopgl -o SomeProject`
 [dotnet new](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new)
 
