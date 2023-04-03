@@ -1,4 +1,4 @@
-## Adding Monogame templates to .NET Core
+## Adding templates to .NET Core
 `dotnet new --install "MonoGame.Templates.CSharp"`
 
 ## `dotnet new mgdesktopgl -o SomeProject`
